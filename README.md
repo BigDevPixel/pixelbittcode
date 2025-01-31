@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @BigDevPixel
-- 👀 I’m interested in administration and safety
+- 👋 Hi, I’m @1XMobPixel
+- 👀 I’m interested in Programming and Moderating games
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on roblox . discord. 
+- 💞️I’m looking to collaborate on exciting Roblox and Minecraft projects, including game development, scripting, or creating engaging player experiences 
 - 
 - 📫 How to reach me my discord pixel_bitt or my email pixelbittmate@gmail.com
 - 😄 Pronouns: he him 
-- ⚡ Fun fact: ... im funny 
-<!---
-pixelbittcode/pixelbittcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: ... Zombie villagers still try to "trade" brains.
